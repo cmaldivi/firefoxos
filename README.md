@@ -13,3 +13,6 @@ https://tools.taskcluster.net/index/artifacts/#gecko.v1.mozilla-central.latest.l
 
 Last version
 https://github.com/mozilla-b2g/gaia 
+
+Security
+CSP (Content Security Policy)
