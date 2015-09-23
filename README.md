@@ -26,6 +26,13 @@ https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Phone_guide/Flame/Up
 base image
 http://cds.w5v8t3u9.hwcdn.net/v18D_nightly_v4.zip
 
+#Reflash last gaia & gecko
+les images gaia + gecko pour v2.2 (buildé tous les jours)
+https://ftp.mozilla.org/pub/mozilla.org/b2g/nightly/latest-mozilla-b2g37_v2_2-flame-kk/
+y télécharger gaia.zip + le b2g
+télécharger https://raw.githubusercontent.com/Mozilla-TWQA/B2G-flash-tool/master/shallow_flash.sh
+exécuter ./shallow_flash.sh --gecko=<le fichier b2G> --gaia=<le fichier gaia.zip>
+
 #Misc
 Security
 CSP (Content Security Policy)
