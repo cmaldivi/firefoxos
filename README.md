@@ -5,6 +5,9 @@ Augustin
 [github](https://github.com/autra)
 [twitter](https://twitter.com/autra42)
 
+
+[turn your phone in ioT board](http://janos.io)
+
 Deploy for firefox os:
 https://marketplace-dev.allizom.org/ account
 
