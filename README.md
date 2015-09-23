@@ -20,5 +20,7 @@ in gaia directory:
  - make
  - run with "Profile Ready: please run [b2g|firefox] -profile /home/stagiaire/workspace/gaia/profile"
 
+
+#Misc
 Security
 CSP (Content Security Policy)
