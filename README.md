@@ -11,8 +11,12 @@ https://marketplace-dev.allizom.org/ account
 Mulet
 https://tools.taskcluster.net/index/artifacts/#gecko.v1.mozilla-central.latest.linux.mulet/gecko.v1.mozilla-central.latest.linux.mulet.opt
 
-Last version
+Last version of gaia
 https://github.com/mozilla-b2g/gaia 
+Run modified gaia: 
+in gaia directory:
+ - make
+ - run with "Profile Ready: please run [b2g|firefox] -profile /home/stagiaire/workspace/gaia/profile"
 
 Security
 CSP (Content Security Policy)
