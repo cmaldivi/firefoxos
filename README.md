@@ -2,8 +2,8 @@
 formation firefox OS
 
 Augustin
-https://github.com/autra
-https://twitter.com/autra42
+[github](https://github.com/autra)
+[twitter](https://twitter.com/autra42)
 
 Deploy for firefox os:
 https://marketplace-dev.allizom.org/ account
