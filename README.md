@@ -20,6 +20,11 @@ in gaia directory:
  - make
  - run with "Profile Ready: please run [b2g|firefox] -profile /home/stagiaire/workspace/gaia/profile"
 
+#Upgrade ROM of Flame device
+https://developer.mozilla.org/en-US/docs/Mozilla/Firefox_OS/Phone_guide/Flame/Updating_your_Flame
+
+base image
+http://cds.w5v8t3u9.hwcdn.net/v18D_nightly_v4.zip
 
 #Misc
 Security
