@@ -1,6 +1,10 @@
 # firefoxos
 formation firefox OS
 
+Augustin
+https://github.com/autra
+https://twitter.com/autra42
+
 Deploy for firefox os:
 https://marketplace-dev.allizom.org/ account
 
