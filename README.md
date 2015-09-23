@@ -35,6 +35,12 @@ https://ftp.mozilla.org/pub/mozilla.org/b2g/nightly/latest-mozilla-central-flame
 y télécharger gaia.zip + le b2g : b2g-37.0.en-US.android-arm.tar.gz
 télécharger https://raw.githubusercontent.com/Mozilla-TWQA/B2G-flash-tool/master/shallow_flash.sh
 
+#TODO app
+
+http://buildingfirefoxos.com/
+
+
+
 #Misc
 Security
 CSP (Content Security Policy)
