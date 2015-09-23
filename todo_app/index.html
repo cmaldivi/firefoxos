@@ -8,6 +8,8 @@
     <link href="style/lists.css" rel="stylesheet" type="text/css">
     <link href="style/switches.css" rel="stylesheet" type="text/css">
     <link href="style/custom.css" rel="stylesheet" type="text/css">
+    <link href="style/buttons.css" rel="stylesheet" type="text/css">
+    <link href="style/input_areas.css" rel="stylesheet" type="text/css">
 
     <title>A simple TODO app</title>
 
@@ -41,9 +43,17 @@
         <h1>My TODO app</h1>
       </header>
       <div role="main">
+          
+      <form role="search">
+        <button type="submit" onclick="storeNewTask()">Add</button>
+        <p>
+          <input id="newtask" placeholder="New task..." type="text">
+          <button type="reset">Clear</button>
+        </p>
+      </form>
+
         <section data-type="list">
           <ul>
-            <li><p>Buy food</p></li>
             <li><p>Take a shower</p></li>
             <li><p>Code all the things!</p></li>
           </ul>
