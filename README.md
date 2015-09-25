@@ -51,6 +51,10 @@ le big boss de l’accessibilité coté Mozilla c’est Marco Zehe (mzehe@mozill
 sinon un contact qui parle français: Natalia sur irc    
 
 
+Conventional changelog
+git rebase -i
+
+
 Alcatel one touch fire E:
 - 2.0 devrait être dispo en OTA
 - rom dispo ici http://firefoxosguide.com/firefox-os/tutorial-flash-alcatel-onetouch-fire-firefox-os-v2-5-spark-enabled.html/ (2.5 spark) par contre pas de processus de build documenté (comment ont-il fait ?)
