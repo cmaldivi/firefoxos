@@ -44,3 +44,8 @@ http://buildingfirefoxos.com/
 #Misc
 Security
 CSP (Content Security Policy)
+
+Les contacts accessibilité coté mozilla
+Eitan Isaacson  eeejay eitan@monotonous.org
+le big boss de l’accessibilité coté Mozilla c’est Marco Zehe (mzehe@mozilla.com)       
+sinon un contact qui parle français: Natalia sur irc    
