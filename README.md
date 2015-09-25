@@ -49,3 +49,13 @@ Les contacts accessibilité coté mozilla
 Eitan Isaacson  eeejay eitan@monotonous.org
 le big boss de l’accessibilité coté Mozilla c’est Marco Zehe (mzehe@mozilla.com)       
 sinon un contact qui parle français: Natalia sur irc    
+
+
+Alcatel one touch fire E:
+- 2.0 devrait être dispo en OTA
+- rom dispo ici http://firefoxosguide.com/firefox-os/tutorial-flash-alcatel-onetouch-fire-firefox-os-v2-5-spark-enabled.html/ (2.5 spark) par contre pas de processus de build documenté (comment ont-il fait ?)
+- alcatel fait des dump de leur device sur 
+http://sourceforge.net/projects/alcatel/files/
+ce qui peut servir de base à un fork
+Des threads sur xda-developers semblent indiquere qu'il est possible de délocker le bootloader...
+
